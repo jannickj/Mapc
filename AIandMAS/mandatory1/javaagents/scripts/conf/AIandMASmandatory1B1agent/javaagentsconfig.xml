@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javaAgentsConfig>
+  <agents>
+  <agent name="agentB1" entity="connectionB1" class="massim.javaagents.agents.SimpleExplorerAgent" team="B"/>
+  </agents>
+</javaAgentsConfig>

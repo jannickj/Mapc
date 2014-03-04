@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><tournament tournament-name="Mars2013-contest">
+<team name="Nabf"/>
+<team name="B"/>
+<match blue="B" red="Nabf">
+<simulation endtime="1390310057260" name="Mars2013-contest_NabfB_2013-tournament-sim1" starttime="1390308249243">
+<result B="13000.0" Bcowsincorral="0.0" Nabf="12320.0" Nabfcowsincorral="0.0" output="./output\Mars2013-contest_NabfB_2013-tournament-sim1_2014-01-21_13-44\SimulationPreview.svg" simulation="Mars2013-contest_NabfB_2013-tournament-sim1_2014-01-21_13-44"/>
+</simulation>
+<simulation endtime="1390311856160" name="Mars2013-contest_NabfB_2013-tournament-sim2" starttime="1390310057283">
+<result B="7000.0" Bcowsincorral="0.0" Nabf="13500.0" Nabfcowsincorral="0.0" output="./output\Mars2013-contest_NabfB_2013-tournament-sim2_2014-01-21_14-14\SimulationPreview.svg" simulation="Mars2013-contest_NabfB_2013-tournament-sim2_2014-01-21_14-14"/>
+</simulation>
+<simulation endtime="1390313656897" name="Mars2013-contest_NabfB_2013-tournament-sim3" starttime="1390311856168">
+<result B="14500.0" Bcowsincorral="0.0" Nabf="14000.0" Nabfcowsincorral="0.0" output="./output\Mars2013-contest_NabfB_2013-tournament-sim3_2014-01-21_14-44\SimulationPreview.svg" simulation="Mars2013-contest_NabfB_2013-tournament-sim3_2014-01-21_14-44"/>
+</simulation>
+</match>
+</tournament>

@@ -15,6 +15,7 @@
 <!ENTITY teamNabf SYSTEM "accounts-Nabf.xml">
 <!ENTITY teamNabf1Agent SYSTEM "accounts-Nabf1Agent.xml">
 <!ENTITY teamNPC SYSTEM "accounts-NPC.xml">
+<!ENTITY teamGOAL-DTU SYSTEM "accounts-GOAL-DTU.xml">
 
 <!ENTITY simulation1 SYSTEM "sim1.xml">
 <!ENTITY simulation2 SYSTEM "sim2.xml">

@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" zoomAndPan="magnify" contentStyleType="text/css" preserveAspectRatio="xMidYMid meet" version="1.0">
+<g id="scaleSvg" transform="scale(0.25)">
+<polygon class="T1" points="950,1250 850,1050 1050,1050 "/>
+<polygon class="T1" points="2050,250 1850,350 1850,150 "/>
+<polygon class="T1" points="850,1050 750,1150 750,1050 850,950 "/>
+<polygon class="T1" points="950,1450 1050,1350 1150,1350 1250,1450 "/>
+<polygon class="T1" points="850,1050 950,1250 850,1050 1050,1050 950,1250 "/>
+<polygon class="T1" points="950,1250 1050,1050 950,1250 850,1050 1050,1050 "/>
+<polygon class="T1" points="1050,1050 850,1050 1050,1050 950,1250 850,1050 "/>
+<polygon class="T1" points="950,1250 1050,1350 950,1250 850,1050 1050,1050 "/>
+<polygon class="T1" points="750,1150 850,1050 1050,1050 950,1250 850,1050 "/>
+<polygon class="T1" points="950,1250 950,1350 950,1250 850,1050 1050,1050 "/>
+<polygon class="T1" points="850,1050 850,950 850,1050 1050,1050 950,1250 "/>
+<polygon class="T1" points="1850,350 2050,250 1850,350 1850,150 2050,250 "/>
+<polygon class="T1" points="2050,250 1850,150 2050,250 1850,350 1850,150 "/>
+<polygon class="T1" points="1850,150 1850,350 1850,150 2050,250 1850,350 "/>
+<polygon class="T1" points="1750,350 1850,350 1850,150 2050,250 1850,350 "/>
+<polygon class="T1" points="850,950 750,1050 850,950 850,1050 750,1150 750,1050 "/>
+<polygon class="T1" points="1050,1350 950,1450 1050,1350 1150,1350 1250,1450 950,1450 "/>
+<polygon class="T1" points="750,1050 750,1150 750,1050 850,950 850,1050 750,1150 "/>
+<polygon class="T1" points="1250,1450 1150,1350 1250,1450 950,1450 1050,1350 1150,1350 "/>
+<polygon class="T1" points="1150,1350 1050,1350 1150,1350 1250,1450 950,1450 1050,1350 "/>
+<polygon class="T1" points="950,1450 1250,1450 950,1450 1050,1350 1150,1350 1250,1450 "/>
+<circle r="25" class="T1n" cx="1950" cy="550"/>
+<circle r="25" class="T1n" cx="2050" cy="1450"/>
+<circle r="25" class="T1n" cx="1750" cy="350"/>
+<circle r="25" class="T1n" cx="2050" cy="250"/>
+<circle r="25" class="T1n" cx="250" cy="950"/>
+<circle r="25" class="T1n" cx="1850" cy="350"/>
+<circle r="25" class="T1n" cx="950" cy="1250"/>
+<circle r="25" class="T1n" cx="650" cy="150"/>
+<circle r="25" class="T1n" cx="750" cy="1150"/>
+<circle r="25" class="T1n" cx="1050" cy="1050"/>
+<circle r="25" class="T1n" cx="450" cy="750"/>
+<circle r="25" class="T1n" cx="1150" cy="1550"/>
+<circle r="25" class="T1n" cx="1750" cy="1450"/>
+<circle r="25" class="T1n" cx="150" cy="1150"/>
+<circle r="25" class="T1n" cx="150" cy="1050"/>
+<circle r="25" class="T1n" cx="1250" cy="1450"/>
+<circle r="25" class="T1n" cx="1550" cy="1250"/>
+<circle r="25" class="T1n" cx="1850" cy="150"/>
+<circle r="25" class="T1n" cx="1150" cy="1350"/>
+<circle r="25" class="T1n" cx="750" cy="1050"/>
+<circle r="25" class="T1n" cx="450" cy="1350"/>
+<circle r="25" class="T1n" cx="850" cy="1050"/>
+<circle r="25" class="T1n" cx="1050" cy="1350"/>
+<circle r="25" class="T1n" cx="1650" cy="1750"/>
+<circle r="25" class="T1n" cx="150" cy="450"/>
+<circle r="25" class="T1n" cx="950" cy="1450"/>
+<circle r="25" class="T1n" cx="950" cy="1350"/>
+<circle r="25" class="T1n" cx="850" cy="950"/>
+<circle r="25" class="T1n" cx="1350" cy="950"/>
+<circle r="25" class="T1n" cx="1150" cy="350"/>
+<circle r="25" class="T1n" cx="2150" cy="1950"/>
+<line y2="1150" x1="250" class="T1e" x2="150" y1="950"/>
+<line y2="1050" x1="950" class="T1e" x2="850" y1="1250"/>
+<line y2="1050" x1="950" class="T1e" x2="1050" y1="1250"/>
+<line y2="1050" x1="850" class="T1e" x2="1050" y1="1050"/>
+<line y2="1350" x1="950" class="T1e" x2="1050" y1="1250"/>
+<line y2="1050" x1="750" class="T1e" x2="850" y1="1150"/>
+<line y2="1050" x1="850" class="T1e" x2="750" y1="950"/>
+<line y2="1450" x1="1050" class="T1e" x2="950" y1="1350"/>
+<line y2="1150" x1="150" class="T1e" x2="150" y1="1050"/>
+<line y2="1350" x1="950" class="T1e" x2="950" y1="1250"/>
+<line y2="1050" x1="750" class="T1e" x2="750" y1="1150"/>
+<line y2="1050" x1="850" class="T1e" x2="850" y1="950"/>
+<line y2="250" x1="1850" class="T1e" x2="2050" y1="350"/>
+<line y2="150" x1="2050" class="T1e" x2="1850" y1="250"/>
+<line y2="150" x1="1850" class="T1e" x2="1850" y1="350"/>
+<line y2="1450" x1="1150" class="T1e" x2="1250" y1="1350"/>
+<line y2="350" x1="1750" class="T1e" x2="1850" y1="350"/>
+<line y2="1350" x1="1050" class="T1e" x2="1150" y1="1350"/>
+<line y2="1450" x1="950" class="T1e" x2="1250" y1="1450"/>
+<circle r="9" class="N" cx="1950" cy="550"/>
+<circle r="9" class="N" cx="2050" cy="1450"/>
+<circle r="5" class="N" cx="1750" cy="350"/>
+<circle r="5" class="N" cx="2050" cy="250"/>
+<circle r="6" class="N" cx="250" cy="950"/>
+<circle r="5" class="N" cx="1850" cy="350"/>
+<circle r="11" class="N" cx="950" cy="1250"/>
+<circle r="5" class="N" cx="650" cy="150"/>
+<circle r="11" class="N" cx="750" cy="1150"/>
+<circle r="12" class="N" cx="1050" cy="1050"/>
+<circle r="8" class="N" cx="450" cy="750"/>
+<circle r="5" class="N" cx="1150" cy="1550"/>
+<circle r="9" class="N" cx="1750" cy="1450"/>
+<circle r="5" class="N" cx="150" cy="1150"/>
+<circle r="5" class="N" cx="150" cy="1050"/>
+<circle r="6" class="N" cx="1250" cy="1450"/>
+<circle r="6" class="N" cx="1550" cy="1250"/>
+<circle r="5" class="N" cx="1850" cy="150"/>
+<circle r="8" class="N" cx="1150" cy="1350"/>
+<circle r="8" class="N" cx="750" cy="1050"/>
+<circle r="8" class="N" cx="450" cy="1350"/>
+<circle r="18" class="N" cx="850" cy="1050"/>
+<circle r="8" class="N" cx="1050" cy="1350"/>
+<circle r="8" class="N" cx="1650" cy="1750"/>
+<circle r="5" class="N" cx="150" cy="450"/>
+<circle r="6" class="N" cx="950" cy="1450"/>
+<circle r="11" class="N" cx="950" cy="1350"/>
+<circle r="9" class="N" cx="850" cy="950"/>
+<circle r="9" class="N" cx="1350" cy="950"/>
+<circle r="5" class="N" cx="1150" cy="350"/>
+<circle r="6" class="N" cx="2150" cy="1950"/>
+<line y2="1150" x1="250" class="E sw9" x2="150" y1="950"/>
+<line y2="1050" x1="950" class="E sw10" x2="850" y1="1250"/>
+<line y2="1050" x1="950" class="E sw9" x2="1050" y1="1250"/>
+<line y2="1050" x1="850" class="E sw9" x2="1050" y1="1050"/>
+<line y2="1350" x1="950" class="E sw3" x2="1050" y1="1250"/>
+<line y2="1050" x1="750" class="E sw5" x2="850" y1="1150"/>
+<line y2="1050" x1="850" class="E sw4" x2="750" y1="950"/>
+<line x1="1050" x2="950" y1="1350" y2="1450" style="stroke-width:11;" class="E"/>
+<line y2="1150" x1="150" class="E sw5" x2="150" y1="1050"/>
+<line y2="1350" x1="950" class="E sw5" x2="950" y1="1250"/>
+<line x1="750" x2="750" y1="1150" y2="1050" style="stroke-width:11;" class="E"/>
+<line y2="1050" x1="850" class="E sw8" x2="850" y1="950"/>
+<line y2="250" x1="1850" class="E sw6" x2="2050" y1="350"/>
+<line y2="150" x1="2050" class="E sw3" x2="1850" y1="250"/>
+<line y2="150" x1="1850" class="E sw10" x2="1850" y1="350"/>
+<line x1="1150" x2="1250" y1="1350" y2="1450" style="stroke-width:11;" class="E"/>
+<line y2="350" x1="1750" class="E sw3" x2="1850" y1="350"/>
+<line y2="1350" x1="1050" class="E sw6" x2="1150" y1="1350"/>
+<line y2="1450" x1="950" class="E sw10" x2="1250" y1="1450"/>
+<polygon class="T2" points="550,1750 450,1850 450,1750 "/>
+<polygon class="T2" points="550,2150 450,2050 550,1950 650,2050 "/>
+<polygon class="T2" points="550,1950 450,2050 450,1950 450,1850 "/>
+<polygon class="T2" points="450,1750 450,1550 450,1750 550,1750 450,1850 "/>
+<polygon class="T2" points="450,1750 350,1850 450,1750 550,1750 450,1850 "/>
+<polygon class="T2" points="550,1950 450,1850 450,1750 550,1750 450,1850 "/>
+<polygon class="T2" points="450,1850 550,1750 450,1850 450,1750 550,1750 "/>
+<polygon class="T2" points="450,1750 450,1850 450,1750 550,1750 450,1850 "/>
+<polygon class="T2" points="550,1750 450,1750 550,1750 450,1850 450,1750 "/>
+<polygon class="T2" points="450,1850 450,1950 450,1850 450,1750 550,1750 "/>
+<polygon class="T2" points="550,2150 850,2150 550,2150 450,2050 550,1950 650,2050 "/>
+<polygon class="T2" points="450,2050 550,2150 450,2050 550,1950 650,2050 550,2150 "/>
+<polygon class="T2" points="550,2150 650,2050 550,2150 450,2050 550,1950 650,2050 "/>
+<polygon class="T2" points="650,2050 550,1950 450,2050 450,1950 450,1850 550,1950 "/>
+<polygon class="T2" points="450,1950 450,2050 550,1950 650,2050 550,2150 450,2050 "/>
+<polygon class="T2" points="650,2050 750,2050 650,2050 550,2150 450,2050 550,1950 "/>
+<polygon class="T2" points="450,1550 350,1650 450,1550 450,1750 550,1750 450,1850 450,1750 "/>
+<circle r="25" class="T2n" cx="1150" cy="1850"/>
+<circle r="25" class="T2n" cx="750" cy="1250"/>
+<circle r="25" class="T2n" cx="350" cy="550"/>
+<circle r="25" class="T2n" cx="1850" cy="1850"/>
+<circle r="25" class="T2n" cx="2150" cy="350"/>
+<circle r="25" class="T2n" cx="450" cy="350"/>
+<circle r="25" class="T2n" cx="250" cy="550"/>
+<circle r="25" class="T2n" cx="1050" cy="750"/>
+<circle r="25" class="T2n" cx="1750" cy="250"/>
+<circle r="25" class="T2n" cx="1250" cy="1650"/>
+<circle r="25" class="T2n" cx="450" cy="2050"/>
+<circle r="25" class="T2n" cx="2050" cy="1350"/>
+<circle r="25" class="T2n" cx="650" cy="2050"/>
+<circle r="25" class="T2n" cx="250" cy="1850"/>
+<circle r="25" class="T2n" cx="850" cy="2150"/>
+<circle r="25" class="T2n" cx="550" cy="2150"/>
+<circle r="25" class="T2n" cx="750" cy="2050"/>
+<circle r="25" class="T2n" cx="950" cy="650"/>
+<circle r="25" class="T2n" cx="350" cy="350"/>
+<circle r="25" class="T2n" cx="450" cy="1550"/>
+<circle r="25" class="T2n" cx="350" cy="1850"/>
+<circle r="25" class="T2n" cx="550" cy="1750"/>
+<circle r="25" class="T2n" cx="1750" cy="1750"/>
+<circle r="25" class="T2n" cx="450" cy="1750"/>
+<circle r="25" class="T2n" cx="550" cy="850"/>
+<circle r="25" class="T2n" cx="50" cy="1650"/>
+<circle r="25" class="T2n" cx="550" cy="1950"/>
+<circle r="25" class="T2n" cx="350" cy="1650"/>
+<circle r="25" class="T2n" cx="1950" cy="50"/>
+<circle r="25" class="T2n" cx="1350" cy="50"/>
+<circle r="25" class="T2n" cx="1450" cy="1150"/>
+<circle r="25" class="T2n" cx="450" cy="1950"/>
+<circle r="25" class="T2n" cx="450" cy="1850"/>
+<line y2="2150" x1="550" class="T2e" x2="850" y1="2150"/>
+<line y2="1650" x1="250" class="T2e" x2="350" y1="1850"/>
+<line y2="1550" x1="450" class="T2e" x2="450" y1="1750"/>
+<line y2="350" x1="350" class="T2e" x2="350" y1="550"/>
+<line y2="1850" x1="450" class="T2e" x2="350" y1="1750"/>
+<line y2="2150" x1="450" class="T2e" x2="550" y1="2050"/>
+<line y2="1950" x1="450" class="T2e" x2="550" y1="2050"/>
+<line y2="2050" x1="550" class="T2e" x2="650" y1="2150"/>
+<line y2="1850" x1="550" class="T2e" x2="450" y1="1950"/>
+<line y2="2050" x1="550" class="T2e" x2="650" y1="1950"/>
+<line y2="750" x1="950" class="T2e" x2="1050" y1="650"/>
+<line y2="1750" x1="450" class="T2e" x2="550" y1="1850"/>
+<line y2="1650" x1="450" class="T2e" x2="350" y1="1550"/>
+<line y2="1850" x1="450" class="T2e" x2="450" y1="1750"/>
+<line y2="1750" x1="450" class="T2e" x2="550" y1="1750"/>
+<line y2="550" x1="350" class="T2e" x2="250" y1="550"/>
+<line y2="350" x1="450" class="T2e" x2="350" y1="350"/>
+<line y2="1950" x1="450" class="T2e" x2="450" y1="2050"/>
+<line y2="1950" x1="450" class="T2e" x2="450" y1="1850"/>
+<line y2="2050" x1="650" class="T2e" x2="750" y1="2050"/>
+<line y2="1850" x1="1750" class="T2e" x2="1850" y1="1750"/>
+<circle r="5" class="N" cx="1150" cy="1850"/>
+<circle r="8" class="N" cx="750" cy="1250"/>
+<circle r="6" class="N" cx="350" cy="550"/>
+<circle r="9" class="N" cx="1850" cy="1850"/>
+<circle r="5" class="N" cx="2150" cy="350"/>
+<circle r="5" class="N" cx="450" cy="350"/>
+<circle r="9" class="N" cx="250" cy="550"/>
+<circle r="11" class="N" cx="1050" cy="750"/>
+<circle r="5" class="N" cx="1750" cy="250"/>
+<circle r="5" class="N" cx="1250" cy="1650"/>
+<circle r="5" class="N" cx="450" cy="2050"/>
+<circle r="6" class="N" cx="2050" cy="1350"/>
+<circle r="5" class="N" cx="650" cy="2050"/>
+<circle r="14" class="N" cx="250" cy="1850"/>
+<circle r="5" class="N" cx="850" cy="2150"/>
+<circle r="5" class="N" cx="550" cy="2150"/>
+<circle r="5" class="N" cx="750" cy="2050"/>
+<circle r="11" class="N" cx="950" cy="650"/>
+<circle r="5" class="N" cx="350" cy="350"/>
+<circle r="14" class="N" cx="450" cy="1550"/>
+<circle r="9" class="N" cx="350" cy="1850"/>
+<circle r="8" class="N" cx="550" cy="1750"/>
+<circle r="9" class="N" cx="1750" cy="1750"/>
+<circle r="9" class="N" cx="450" cy="1750"/>
+<circle r="8" class="N" cx="550" cy="850"/>
+<circle r="8" class="N" cx="50" cy="1650"/>
+<circle r="5" class="N" cx="550" cy="1950"/>
+<circle r="18" class="N" cx="350" cy="1650"/>
+<circle r="5" class="N" cx="1950" cy="50"/>
+<circle r="5" class="N" cx="1350" cy="50"/>
+<circle r="11" class="N" cx="1450" cy="1150"/>
+<circle r="5" class="N" cx="450" cy="1950"/>
+<circle r="6" class="N" cx="450" cy="1850"/>
+<line y2="2150" x1="550" class="E sw4" x2="850" y1="2150"/>
+<line x1="250" x2="350" y1="1850" y2="1650" style="stroke-width:11;" class="E"/>
+<line y2="1550" x1="450" class="E sw8" x2="450" y1="1750"/>
+<line y2="350" x1="350" class="E sw9" x2="350" y1="550"/>
+<line y2="1850" x1="450" class="E sw4" x2="350" y1="1750"/>
+<line y2="2150" x1="450" class="E sw6" x2="550" y1="2050"/>
+<line y2="1950" x1="450" class="E sw10" x2="550" y1="2050"/>
+<line y2="2050" x1="550" class="E sw4" x2="650" y1="2150"/>
+<line y2="1850" x1="550" class="E sw9" x2="450" y1="1950"/>
+<line x1="550" x2="650" y1="1950" y2="2050" style="stroke-width:11;" class="E"/>
+<line y2="750" x1="950" class="E sw6" x2="1050" y1="650"/>
+<line y2="1750" x1="450" class="E sw5" x2="550" y1="1850"/>
+<line x1="450" x2="350" y1="1550" y2="1650" style="stroke-width:11;" class="E"/>
+<line x1="450" x2="450" y1="1750" y2="1850" style="stroke-width:11;" class="E"/>
+<line y2="1750" x1="450" class="E sw8" x2="550" y1="1750"/>
+<line y2="550" x1="350" class="E sw5" x2="250" y1="550"/>
+<line y2="350" x1="450" class="E sw3" x2="350" y1="350"/>
+<line y2="1950" x1="450" class="E sw9" x2="450" y1="2050"/>
+<line y2="1950" x1="450" class="E sw10" x2="450" y1="1850"/>
+<line y2="2050" x1="650" class="E sw10" x2="750" y1="2050"/>
+<line y2="1850" x1="1750" class="E sw4" x2="1850" y1="1750"/>
+<rect x="1939" width="36" y="580" height="36" class="s5 sw2 f14"/>
+<rect x="1930" width="54" y="562" height="18" class="s14 sw2 f7"/>
+<text x="1950" y="601" class="f4">19</text>
+<polygon class=" s5 sw2 f14" points="2030,1480 2084,1480 2057,1516"/>
+<rect x="2030" width="54" y="1462" height="18" class="s14 sw2 f8"/>
+<text x="2050" y="1501" class="f4">28</text>
+<circle r="3" class="s4 sw0 f4" cx="2066" cy="1465"/>
+<circle r="3" class="s4 sw0 f4" cx="2066" cy="1477"/>
+<circle r="3" class="s4 sw0 f4" cx="2057" cy="1471"/>
+<circle r="3" class="s4 sw0 f4" cx="2075" cy="1471"/>
+<line y2="1471" x1="2060" class="s4 sw1" x2="2072" y1="1471"/>
+<line y2="1474" x1="2066" class="s4 sw1" x2="2066" y1="1468"/>
+<rect x="239" width="36" y="880" height="36" class="s5 sw2 f13"/>
+<rect x="230" width="54" y="862" height="18" class="s13 sw2 f7"/>
+<text x="250" y="901" class="f4">20</text>
+<polygon class=" s5 sw2 f14" points="278,853 296,853 305,862 305,880 296,889 278,889 269,880 269,862"/>
+<rect x="260" width="54" y="835" height="18" class="s14 sw2 f8"/>
+<text x="280" y="874" class="f4">7</text>
+<circle r="3" class="s4 sw0 f4" cx="296" cy="838"/>
+<circle r="3" class="s4 sw0 f4" cx="296" cy="850"/>
+<circle r="3" class="s4 sw0 f4" cx="287" cy="844"/>
+<circle r="3" class="s4 sw0 f4" cx="305" cy="844"/>
+<line y2="844" x1="290" class="s4 sw1" x2="302" y1="844"/>
+<line y2="847" x1="296" class="s4 sw1" x2="296" y1="841"/>
+<polygon class=" s5 sw2 f13" points="1148,1880 1166,1880 1175,1889 1175,1907 1166,1916 1148,1916 1139,1907 1139,1889"/>
+<rect x="1130" width="54" y="1862" height="18" class="s13 sw2 f7"/>
+<text x="1150" y="1901" class="f4">7</text>
+<polygon class=" s5 sw2 f13" points="730,1280 784,1280 757,1316"/>
+<rect x="730" width="54" y="1262" height="18" class="s13 sw2 f7"/>
+<text x="750" y="1301" class="f4">28</text>
+<rect x="2039" width="36" y="280" height="36" class="s5 sw2 f14"/>
+<rect x="2030" width="54" y="262" height="18" class="s14 sw2 f7"/>
+<text x="2050" y="301" class="f4">18</text>
+<rect x="339" width="36" y="580" height="36" class="s5 sw2 f13"/>
+<rect x="330" width="54" y="562" height="18" class="s13 sw2 f7"/>
+<text x="350" y="601" class="f4">19</text>
+<rect x="1839" width="36" y="1880" height="36" class="s5 sw2 f13"/>
+<rect x="1830" width="54" y="1862" height="18" class="s13 sw2 f7"/>
+<text x="1850" y="1901" class="f4">22</text>
+<circle r="18" class="s5 sw2 f14" cx="257" cy="998"/>
+<rect x="230" width="54" y="962" height="18" class="s14 sw2 f8"/>
+<text x="250" y="1001" class="f4">1</text>
+<polygon class=" s4 sw0 f4" points="266,962 266,968 272,968 260,980 260,974 254,974"/>
+<polygon class=" s5 sw2 f13" points="2130,380 2184,380 2157,416"/>
+<rect x="2130" width="54" y="362" height="18" class="s13 sw2 f7"/>
+<text x="2150" y="401" class="f4">24</text>
+<circle r="18" class="s5 sw2 f13" cx="457" cy="398"/>
+<rect x="430" width="54" y="362" height="18" class="s13 sw2 f7"/>
+<text x="450" y="401" class="f4">5</text>
+<polygon class=" s5 sw2 f13" points="248,580 266,580 275,589 275,607 266,616 248,616 239,607 239,589"/>
+<rect x="230" width="54" y="562" height="18" class="s13 sw2 f7"/>
+<text x="250" y="601" class="f4">11</text>
+<rect x="939" width="36" y="1280" height="36" class="s5 sw2 f14"/>
+<rect x="930" width="54" y="1262" height="18" class="s14 sw2 f7"/>
+<text x="950" y="1301" class="f4">17</text>
+<polygon class=" s5 sw2 f14" points="657,180 675,198 657,216 639,198"/>
+<rect x="630" width="54" y="162" height="18" class="s14 sw2 f8"/>
+<text x="650" y="201" class="f4">15</text>
+<polygon class=" s4 sw0 f4" points="666,162 666,168 672,168 660,180 660,174 654,174"/>
+<polygon class=" s5 sw2 f13" points="1030,780 1084,780 1057,816"/>
+<rect x="1030" width="54" y="762" height="18" class="s13 sw2 f7"/>
+<text x="1050" y="801" class="f4">23</text>
+<polygon class=" s5 sw2 f14" points="457,780 475,798 457,816 439,798"/>
+<rect x="430" width="54" y="762" height="18" class="s14 sw2 f8"/>
+<text x="450" y="801" class="f4">14</text>
+<polygon class=" s4 sw0 f4" points="466,762 466,768 472,768 460,780 460,774 454,774"/>
+<polygon class=" s5 sw2 f14" points="1130,1580 1184,1580 1157,1616"/>
+<rect x="1130" width="54" y="1562" height="18" class="s14 sw2 f8"/>
+<text x="1150" y="1601" class="f4">26</text>
+<circle r="3" class="s4 sw0 f4" cx="1166" cy="1565"/>
+<circle r="3" class="s4 sw0 f4" cx="1166" cy="1577"/>
+<circle r="3" class="s4 sw0 f4" cx="1157" cy="1571"/>
+<circle r="3" class="s4 sw0 f4" cx="1175" cy="1571"/>
+<line y2="1571" x1="1160" class="s4 sw1" x2="1172" y1="1571"/>
+<line y2="1574" x1="1166" class="s4 sw1" x2="1166" y1="1568"/>
+<circle r="18" class="s5 sw2 f14" cx="1757" cy="1498"/>
+<rect x="1730" width="54" y="1462" height="18" class="s14 sw2 f8"/>
+<text x="1750" y="1501" class="f4">5</text>
+<polygon class=" s4 sw0 f4" points="1766,1462 1766,1468 1772,1468 1760,1480 1760,1474 1754,1474"/>
+<polygon class=" s5 sw2 f14" points="148,1080 166,1080 175,1089 175,1107 166,1116 148,1116 139,1107 139,1089"/>
+<rect x="130" width="54" y="1062" height="18" class="s14 sw2 f8"/>
+<text x="150" y="1101" class="f4">11</text>
+<circle r="3" class="s4 sw0 f4" cx="166" cy="1065"/>
+<circle r="3" class="s4 sw0 f4" cx="166" cy="1077"/>
+<circle r="3" class="s4 sw0 f4" cx="157" cy="1071"/>
+<circle r="3" class="s4 sw0 f4" cx="175" cy="1071"/>
+<line y2="1071" x1="160" class="s4 sw1" x2="172" y1="1071"/>
+<line y2="1074" x1="166" class="s4 sw1" x2="166" y1="1068"/>
+<circle r="18" class="s5 sw2 f14" cx="1257" cy="1498"/>
+<rect x="1230" width="54" y="1462" height="18" class="s14 sw2 f8"/>
+<text x="1250" y="1501" class="f4">6</text>
+<circle r="3" class="s4 sw0 f4" cx="1266" cy="1465"/>
+<circle r="3" class="s4 sw0 f4" cx="1266" cy="1477"/>
+<circle r="3" class="s4 sw0 f4" cx="1257" cy="1471"/>
+<circle r="3" class="s4 sw0 f4" cx="1275" cy="1471"/>
+<line y2="1471" x1="1260" class="s4 sw1" x2="1272" y1="1471"/>
+<line y2="1474" x1="1266" class="s4 sw1" x2="1266" y1="1468"/>
+<polygon class=" s5 sw2 f14" points="1548,1280 1566,1280 1575,1289 1575,1307 1566,1316 1548,1316 1539,1307 1539,1289"/>
+<rect x="1530" width="54" y="1262" height="18" class="s14 sw2 f8"/>
+<text x="1550" y="1301" class="f4">12</text>
+<circle r="3" class="s4 sw0 f4" cx="1566" cy="1265"/>
+<circle r="3" class="s4 sw0 f4" cx="1566" cy="1277"/>
+<circle r="3" class="s4 sw0 f4" cx="1557" cy="1271"/>
+<circle r="3" class="s4 sw0 f4" cx="1575" cy="1271"/>
+<line y2="1271" x1="1560" class="s4 sw1" x2="1572" y1="1271"/>
+<line y2="1274" x1="1566" class="s4 sw1" x2="1566" y1="1268"/>
+<circle r="18" class="s5 sw2 f13" cx="1657" cy="2198"/>
+<rect x="1630" width="54" y="2162" height="18" class="s13 sw2 f7"/>
+<text x="1650" y="2201" class="f4">4</text>
+<circle r="18" class="s5 sw2 f14" cx="1687" cy="2171"/>
+<rect x="1660" width="54" y="2135" height="18" class="s14 sw2 f8"/>
+<text x="1680" y="2174" class="f4">4</text>
+<circle r="3" class="s4 sw0 f4" cx="1696" cy="2138"/>
+<circle r="3" class="s4 sw0 f4" cx="1696" cy="2150"/>
+<circle r="3" class="s4 sw0 f4" cx="1687" cy="2144"/>
+<circle r="3" class="s4 sw0 f4" cx="1705" cy="2144"/>
+<line y2="2144" x1="1690" class="s4 sw1" x2="1702" y1="2144"/>
+<line y2="2147" x1="1696" class="s4 sw1" x2="1696" y1="2141"/>
+<polygon class=" s5 sw2 f14" points="1848,180 1866,180 1875,189 1875,207 1866,216 1848,216 1839,207 1839,189"/>
+<rect x="1830" width="54" y="162" height="18" class="s14 sw2 f8"/>
+<text x="1850" y="201" class="f4">9</text>
+<circle r="3" class="s4 sw0 f4" cx="1866" cy="165"/>
+<circle r="3" class="s4 sw0 f4" cx="1866" cy="177"/>
+<circle r="3" class="s4 sw0 f4" cx="1857" cy="171"/>
+<circle r="3" class="s4 sw0 f4" cx="1875" cy="171"/>
+<line y2="171" x1="1860" class="s4 sw1" x2="1872" y1="171"/>
+<line y2="174" x1="1866" class="s4 sw1" x2="1866" y1="168"/>
+<polygon class=" s5 sw2 f13" points="848,1880 866,1880 875,1889 875,1907 866,1916 848,1916 839,1907 839,1889"/>
+<rect x="830" width="54" y="1862" height="18" class="s13 sw2 f7"/>
+<text x="850" y="1901" class="f4">12</text>
+<polygon class=" s5 sw2 f14" points="878,1853 896,1853 905,1862 905,1880 896,1889 878,1889 869,1880 869,1862"/>
+<rect x="860" width="54" y="1835" height="18" class="s14 sw2 f8"/>
+<text x="880" y="1874" class="f4">8</text>
+<circle r="3" class="s4 sw0 f4" cx="896" cy="1838"/>
+<circle r="3" class="s4 sw0 f4" cx="896" cy="1850"/>
+<circle r="3" class="s4 sw0 f4" cx="887" cy="1844"/>
+<circle r="3" class="s4 sw0 f4" cx="905" cy="1844"/>
+<line y2="1844" x1="890" class="s4 sw1" x2="902" y1="1844"/>
+<line y2="1847" x1="896" class="s4 sw1" x2="896" y1="1841"/>
+<polygon class=" s5 sw2 f14" points="1148,1380 1166,1380 1175,1389 1175,1407 1166,1416 1148,1416 1139,1407 1139,1389"/>
+<rect x="1130" width="54" y="1362" height="18" class="s14 sw2 f8"/>
+<text x="1150" y="1401" class="f4">10</text>
+<polygon class=" s4 sw0 f4" points="1166,1362 1166,1368 1172,1368 1160,1380 1160,1374 1154,1374"/>
+<circle r="18" class="s5 sw2 f14" cx="757" cy="1098"/>
+<rect x="730" width="54" y="1062" height="18" class="s14 sw2 f8"/>
+<text x="750" y="1101" class="f4">2</text>
+<circle r="3" class="s4 sw0 f4" cx="766" cy="1065"/>
+<circle r="3" class="s4 sw0 f4" cx="766" cy="1077"/>
+<circle r="3" class="s4 sw0 f4" cx="757" cy="1071"/>
+<circle r="3" class="s4 sw0 f4" cx="775" cy="1071"/>
+<line y2="1071" x1="760" class="s4 sw1" x2="772" y1="1071"/>
+<line y2="1074" x1="766" class="s4 sw1" x2="766" y1="1068"/>
+<polygon class=" s5 sw2 f13" points="1748,280 1766,280 1775,289 1775,307 1766,316 1748,316 1739,307 1739,289"/>
+<rect x="1730" width="54" y="262" height="18" class="s13 sw2 f7"/>
+<text x="1750" y="301" class="f4">9</text>
+<polygon class=" s5 sw2 f14" points="430,1380 484,1380 457,1416"/>
+<rect x="430" width="54" y="1362" height="18" class="s14 sw2 f8"/>
+<text x="450" y="1401" class="f4">25</text>
+<circle r="3" class="s4 sw0 f4" cx="466" cy="1365"/>
+<circle r="3" class="s4 sw0 f4" cx="466" cy="1377"/>
+<circle r="3" class="s4 sw0 f4" cx="457" cy="1371"/>
+<circle r="3" class="s4 sw0 f4" cx="475" cy="1371"/>
+<line y2="1371" x1="460" class="s4 sw1" x2="472" y1="1371"/>
+<line y2="1374" x1="466" class="s4 sw1" x2="466" y1="1368"/>
+<polygon class=" s5 sw2 f13" points="1257,1680 1275,1698 1257,1716 1239,1698"/>
+<rect x="1230" width="54" y="1662" height="18" class="s13 sw2 f7"/>
+<text x="1250" y="1701" class="f4">13</text>
+<polygon class=" s5 sw2 f14" points="830,1080 884,1080 857,1116"/>
+<rect x="830" width="54" y="1062" height="18" class="s14 sw2 f8"/>
+<text x="850" y="1101" class="f4">24</text>
+<polygon class=" s4 sw0 f4" points="866,1062 866,1068 872,1068 860,1080 860,1074 854,1074"/>
+<polygon class=" s5 sw2 f13" points="2057,1380 2075,1398 2057,1416 2039,1398"/>
+<rect x="2030" width="54" y="1362" height="18" class="s13 sw2 f7"/>
+<text x="2050" y="1401" class="f4">14</text>
+<circle r="18" class="s5 sw2 f13" cx="257" cy="1898"/>
+<rect x="230" width="54" y="1862" height="18" class="s13 sw2 f7"/>
+<text x="250" y="1901" class="f4">1</text>
+<rect x="269" width="36" y="1853" height="36" class="s5 sw2 f13"/>
+<rect x="260" width="54" y="1835" height="18" class="s13 sw2 f7"/>
+<text x="280" y="1874" class="f4">18</text>
+<polygon class=" s5 sw2 f13" points="748,2080 766,2080 775,2089 775,2107 766,2116 748,2116 739,2107 739,2089"/>
+<rect x="730" width="54" y="2062" height="18" class="s13 sw2 f7"/>
+<text x="750" y="2101" class="f4">10</text>
+<circle r="18" class="s5 sw2 f13" cx="357" cy="1998"/>
+<rect x="330" width="54" y="1962" height="18" class="s13 sw2 f7"/>
+<text x="350" y="2001" class="f4">2</text>
+<polygon class=" s5 sw2 f14" points="360,1953 414,1953 387,1989"/>
+<rect x="360" width="54" y="1935" height="18" class="s14 sw2 f8"/>
+<text x="380" y="1974" class="f4">27</text>
+<circle r="3" class="s4 sw0 f4" cx="396" cy="1938"/>
+<circle r="3" class="s4 sw0 f4" cx="396" cy="1950"/>
+<circle r="3" class="s4 sw0 f4" cx="387" cy="1944"/>
+<circle r="3" class="s4 sw0 f4" cx="405" cy="1944"/>
+<line y2="1944" x1="390" class="s4 sw1" x2="402" y1="1944"/>
+<line y2="1947" x1="396" class="s4 sw1" x2="396" y1="1941"/>
+<polygon class=" s5 sw2 f13" points="448,1580 466,1580 475,1589 475,1607 466,1616 448,1616 439,1607 439,1589"/>
+<rect x="430" width="54" y="1562" height="18" class="s13 sw2 f7"/>
+<text x="450" y="1601" class="f4">8</text>
+<polygon class=" s5 sw2 f13" points="1730,1780 1784,1780 1757,1816"/>
+<rect x="1730" width="54" y="1762" height="18" class="s13 sw2 f7"/>
+<text x="1750" y="1801" class="f4">25</text>
+<polygon class=" s5 sw2 f14" points="1657,1780 1675,1798 1657,1816 1639,1798"/>
+<rect x="1630" width="54" y="1762" height="18" class="s14 sw2 f8"/>
+<text x="1650" y="1801" class="f4">13</text>
+<polygon class=" s4 sw0 f4" points="1666,1762 1666,1768 1672,1768 1660,1780 1660,1774 1654,1774"/>
+<circle r="18" class="s5 sw2 f14" cx="157" cy="498"/>
+<rect x="130" width="54" y="462" height="18" class="s14 sw2 f8"/>
+<text x="150" y="501" class="f4">3</text>
+<circle r="3" class="s4 sw0 f4" cx="166" cy="465"/>
+<circle r="3" class="s4 sw0 f4" cx="166" cy="477"/>
+<circle r="3" class="s4 sw0 f4" cx="157" cy="471"/>
+<circle r="3" class="s4 sw0 f4" cx="175" cy="471"/>
+<line y2="471" x1="160" class="s4 sw1" x2="172" y1="471"/>
+<line y2="474" x1="166" class="s4 sw1" x2="166" y1="468"/>
+<polygon class=" s5 sw2 f14" points="957,1480 975,1498 957,1516 939,1498"/>
+<rect x="930" width="54" y="1462" height="18" class="s14 sw2 f8"/>
+<text x="950" y="1501" class="f4">16</text>
+<polygon class=" s4 sw0 f4" points="966,1462 966,1468 972,1468 960,1480 960,1474 954,1474"/>
+<rect x="39" width="36" y="680" height="36" class="s5 sw2 f14"/>
+<rect x="30" width="54" y="662" height="18" class="s14 sw2 f7"/>
+<text x="50" y="701" class="f4">22</text>
+<polygon class=" s5 sw2 f13" points="60,653 114,653 87,689"/>
+<rect x="60" width="54" y="635" height="18" class="s13 sw2 f7"/>
+<text x="80" y="674" class="f4">26</text>
+<circle r="18" class="s5 sw2 f13" cx="557" cy="898"/>
+<rect x="530" width="54" y="862" height="18" class="s13 sw2 f7"/>
+<text x="550" y="901" class="f4">3</text>
+<rect x="39" width="36" y="1680" height="36" class="s5 sw2 f13"/>
+<rect x="30" width="54" y="1662" height="18" class="s13 sw2 f7"/>
+<text x="50" y="1701" class="f4">21</text>
+<polygon class=" s5 sw2 f13" points="557,1980 575,1998 557,2016 539,1998"/>
+<rect x="530" width="54" y="1962" height="18" class="s13 sw2 f7"/>
+<text x="550" y="2001" class="f4">16</text>
+<polygon class=" s5 sw2 f14" points="1330,980 1384,980 1357,1016"/>
+<rect x="1330" width="54" y="962" height="18" class="s14 sw2 f8"/>
+<text x="1350" y="1001" class="f4">23</text>
+<circle r="3" class="s4 sw0 f4" cx="1366" cy="965"/>
+<circle r="3" class="s4 sw0 f4" cx="1366" cy="977"/>
+<circle r="3" class="s4 sw0 f4" cx="1357" cy="971"/>
+<circle r="3" class="s4 sw0 f4" cx="1375" cy="971"/>
+<line y2="971" x1="1360" class="s4 sw1" x2="1372" y1="971"/>
+<line y2="974" x1="1366" class="s4 sw1" x2="1366" y1="968"/>
+<circle r="18" class="s5 sw2 f13" cx="1957" cy="98"/>
+<rect x="1930" width="54" y="62" height="18" class="s13 sw2 f7"/>
+<text x="1950" y="101" class="f4">6</text>
+<rect x="1139" width="36" y="380" height="36" class="s5 sw2 f14"/>
+<rect x="1130" width="54" y="362" height="18" class="s14 sw2 f7"/>
+<text x="1150" y="401" class="f4">21</text>
+<rect x="1339" width="36" y="80" height="36" class="s5 sw2 f13"/>
+<rect x="1330" width="54" y="62" height="18" class="s13 sw2 f7"/>
+<text x="1350" y="101" class="f4">17</text>
+<polygon class=" s5 sw2 f13" points="1430,1180 1484,1180 1457,1216"/>
+<rect x="1430" width="54" y="1162" height="18" class="s13 sw2 f7"/>
+<text x="1450" y="1201" class="f4">27</text>
+<polygon class=" s5 sw2 f13" points="457,1980 475,1998 457,2016 439,1998"/>
+<rect x="430" width="54" y="1962" height="18" class="s13 sw2 f7"/>
+<text x="450" y="2001" class="f4">15</text>
+<rect x="2139" width="36" y="1980" height="36" class="s5 sw2 f14"/>
+<rect x="2130" width="54" y="1962" height="18" class="s14 sw2 f7"/>
+<text x="2150" y="2001" class="f4">20</text>
+<g id="teamTable" transform="translate(-100, 150)">
+<text x="2350" y="75" class="TxtNrml">Step: 33</text>
+<text x="2350" y="180" class="Tb" text-anchor="start">
+<tspan fill="rgba(0,158,115,1.0)" x="2350">Nabf</tspan>
+<tspan x="2750">871</tspan>
+<tspan x="2950">22</tspan>
+<tspan x="3150">18</tspan>
+<tspan x="3350">4</tspan>
+</text>
+<text x="2350" y="220" class="Tb" text-anchor="start">
+<tspan fill="rgba(0,114,178,1.0)" x="2350">B</tspan>
+<tspan x="2750">868</tspan>
+<tspan x="2950">24</tspan>
+<tspan x="3150">22</tspan>
+<tspan x="3350">2</tspan>
+</text>
+</g>
+<g id="agentTable" transform="translate(-100, 150)">
+<text x="2350" y="316" class="Tb2" text-anchor="start">
+<tspan x="2535">25/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="346" class="Tb2" text-anchor="start">
+<tspan x="2535">13/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan x="2995">goto v131:successful</tspan>
+</text>
+<text x="2350" y="376" class="Tb2" text-anchor="start">
+<tspan x="2535">23/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan x="2995">goto v218:successful</tspan>
+</text>
+<text x="2350" y="406" class="Tb2" text-anchor="start">
+<tspan x="2535">12/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan x="2995">goto v112:successful</tspan>
+</text>
+<text x="2350" y="436" class="Tb2" text-anchor="start">
+<tspan x="2535">26/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="466" class="Tb2" text-anchor="start">
+<tspan x="2535">1/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan x="2995">goto v110:successful</tspan>
+</text>
+<text x="2350" y="496" class="Tb2" text-anchor="start">
+<tspan x="2535">8/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v13:successful</tspan>
+</text>
+<text x="2350" y="526" class="Tb2" text-anchor="start">
+<tspan x="2535">8/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v123:successful</tspan>
+</text>
+<text x="2350" y="556" class="Tb2" text-anchor="start">
+<tspan x="2535">3/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v113:successful</tspan>
+</text>
+<text x="2350" y="586" class="Tb2" text-anchor="start">
+<tspan x="2535">22/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="616" class="Tb2" text-anchor="start">
+<tspan x="2535">12/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v109:successful</tspan>
+</text>
+<text x="2350" y="646" class="Tb2" text-anchor="start">
+<tspan x="2535">14/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v111:successful</tspan>
+</text>
+<text x="2350" y="676" class="Tb2" text-anchor="start">
+<tspan x="2535">11/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="706" class="Tb2" text-anchor="start">
+<tspan x="2535">11/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="736" class="Tb2" text-anchor="start">
+<tspan x="2535">11/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="766" class="Tb2" text-anchor="start">
+<tspan x="2535">11/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="796" class="Tb2" text-anchor="start">
+<tspan x="2535">28/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="826" class="Tb2" text-anchor="start">
+<tspan x="2535">28/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="856" class="Tb2" text-anchor="start">
+<tspan x="2535">28/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="886" class="Tb2" text-anchor="start">
+<tspan x="2535">28/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="916" class="Tb2" text-anchor="start">
+<tspan x="2535">28/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="946" class="Tb2" text-anchor="start">
+<tspan x="2535">28/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="976" class="Tb2" text-anchor="start">
+<tspan x="2535">11/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v264:successful</tspan>
+</text>
+<text x="2350" y="1006" class="Tb2" text-anchor="start">
+<tspan x="2535">19/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">recharge :successful</tspan>
+</text>
+<text x="2350" y="1036" class="Tb2" text-anchor="start">
+<tspan x="2535">10/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v133:successful</tspan>
+</text>
+<text x="2350" y="1066" class="Tb2" text-anchor="start">
+<tspan x="2535">10/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v100:successful</tspan>
+</text>
+<text x="2350" y="1096" class="Tb2" text-anchor="start">
+<tspan x="2535">8/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v170:successful</tspan>
+</text>
+<text x="2350" y="1126" class="Tb2" text-anchor="start">
+<tspan x="2535">18/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan x="2995">goto v12:successful</tspan>
+</text>
+<text x="2350" y="1156" class="Tb2" text-anchor="start">
+<tspan x="2535">35/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1186" class="Tb2" text-anchor="start">
+<tspan x="2535">35/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1216" class="Tb2" text-anchor="start">
+<tspan x="2535">35/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1246" class="Tb2" text-anchor="start">
+<tspan x="2535">35/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1276" class="Tb2" text-anchor="start">
+<tspan x="2535">35/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1306" class="Tb2" text-anchor="start">
+<tspan x="2535">35/35</tspan>
+<tspan x="2650">4/4</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">2</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1336" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1366" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed_random</tspan>
+</text>
+<text x="2350" y="1396" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1426" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1456" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1486" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1516" class="Tb2" text-anchor="start">
+<tspan x="2535">20/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed_random</tspan>
+</text>
+<text x="2350" y="1546" class="Tb2" text-anchor="start">
+<tspan x="2535">20/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1576" class="Tb2" text-anchor="start">
+<tspan x="2535">20/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1606" class="Tb2" text-anchor="start">
+<tspan x="2535">20/20</tspan>
+<tspan x="2650">3/3</tspan>
+<tspan x="2765">3</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1636" class="Tb2" text-anchor="start">
+<tspan x="2535">30/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1666" class="Tb2" text-anchor="start">
+<tspan x="2535">30/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1696" class="Tb2" text-anchor="start">
+<tspan x="2535">30/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1726" class="Tb2" text-anchor="start">
+<tspan x="2535">30/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1756" class="Tb2" text-anchor="start">
+<tspan x="2535">30/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1786" class="Tb2" text-anchor="start">
+<tspan x="2535">30/30</tspan>
+<tspan x="2650">1/1</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">3</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1816" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1846" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1876" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1906" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1936" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+<text x="2350" y="1966" class="Tb2" text-anchor="start">
+<tspan x="2535">25/25</tspan>
+<tspan x="2650">6/6</tspan>
+<tspan x="2765">0</tspan>
+<tspan x="2880">1</tspan>
+<tspan fill="red" x="2995">noAction :failed</tspan>
+</text>
+</g>
+<line y2="442" x1="3290" class="s5 sw1" x2="3290" y1="1996"/>
+<g id="achievementPart" transform="translate(-100, 150)">
+<text x="3400" y="301" class="TxtAch">
+<tspan x="3400">Achievements</tspan>
+<tspan fill="rgba(0,158,115,1.0)" x="3400" y="331">Nabf</tspan>
+<tspan x="3400" y="351">area10</tspan>
+<tspan x="3400" y="371">area20</tspan>
+<tspan fill="rgba(0,114,178,1.0)" x="3400" y="396">B</tspan>
+<tspan x="3400" y="416">area10</tspan>
+</text>
+</g>
+</g>
+</svg>

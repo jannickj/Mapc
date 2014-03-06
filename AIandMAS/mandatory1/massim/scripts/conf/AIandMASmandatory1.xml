@@ -4,9 +4,7 @@
 <conf>
 	&sim-server;
 	<match>
-		&simulation1;
-		&simulation2;
-		&simulation3;
+		&simulation1AIandMAS;
 	</match>
 	
 	<accounts>

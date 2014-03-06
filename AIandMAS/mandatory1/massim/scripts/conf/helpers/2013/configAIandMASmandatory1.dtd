@@ -21,6 +21,7 @@
 <!ENTITY simulation1 SYSTEM "sim1.xml">
 <!ENTITY simulation2 SYSTEM "sim2.xml">
 <!ENTITY simulation3 SYSTEM "sim3.xml">
+<!ENTITY simulation1AIandMAS SYSTEM "sim1AIandMAS.xml">
 
 <!ENTITY actionclassmap SYSTEM "actionclassmap.xml">
 <!ENTITY sim-server SYSTEM "sim-server.xml">

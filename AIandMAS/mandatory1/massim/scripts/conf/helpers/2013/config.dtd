@@ -59,7 +59,7 @@
 <!ATTLIST configuration
 	xmlns:meta CDATA "http://www.tu-clausthal.de/"
 	maxNumberOfSteps CDATA "500"
-	numberOfAgents CDATA "56"
+	numberOfAgents CDATA "54"
 	numberOfTeams CDATA "2"
 	gridWidth CDATA "21"
 	gridHeight CDATA "21"

@@ -30,6 +30,7 @@
 <!ENTITY roles SYSTEM "sim-roles.xml">
 <!ENTITY achievements SYSTEM "sim-achievements.xml">
 <!ENTITY agents SYSTEM "sim-agents.xml">
+<!ENTITY agentsAIandMAS SYSTEM "sim-agentsAIandMAS.xml">
 
 <!ATTLIST conf
 	backuppath CDATA "backup"
@@ -62,13 +63,13 @@
 <!ATTLIST configuration
 	xmlns:meta CDATA "http://www.tu-clausthal.de/"
 	maxNumberOfSteps CDATA "500"
-	numberOfAgents CDATA "29"
+	numberOfAgents CDATA "2"
 	numberOfTeams CDATA "2"
 	gridWidth CDATA "21"
 	gridHeight CDATA "21"
 	cellWidth CDATA "100"
 	minNodeWeight CDATA "1"
-	maxNodeWeight CDATA "10"
+	maxNodeWeight CDATA "1"
 	minEdgeCost CDATA "1"
 	maxEdgeCost CDATA "10"
 	mapGenerator CDATA "GraphGenerator2013"

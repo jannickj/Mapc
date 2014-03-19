@@ -7,5 +7,7 @@
 	<entity name="connectionA4" username="a4" password="1" iilang="yes" xml="yes"/>
 	<entity name="connectionA5" username="a5" password="1" iilang="yes" xml="yes"/>
 	<entity name="connectionA6" username="a6" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionA7" username="a7" password="1" iilang="yes" xml="yes"/>
+	<entity name="connectionA8" username="a8" password="1" iilang="yes" xml="yes"/>
   </entities>
 </interfaceConfig>

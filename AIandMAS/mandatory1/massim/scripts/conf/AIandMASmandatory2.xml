@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE conf SYSTEM "helpers/2013/configAIandMASmandatory2.dtd">
+
+<conf>
+	&sim-server;
+	<match>
+		&simulation1_man2;
+	</match>
+	
+	<accounts>
+		&actionclassmap;
+		
+		&teamNabf8Agents;
+		&teamA;
+	</accounts>
+</conf>
+
